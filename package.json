@@ -16,7 +16,7 @@
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",
     "mongoose": "^5.9.7",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "pino": "^6.0.0",
     "shortid": "^2.2.15"
   }
